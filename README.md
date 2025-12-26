@@ -1,6 +1,6 @@
 ## MarkdownLite Editor
 
-MarkdownLite Editor is a lightweight Markdown document editor for iOS and macOS, designed for users who want a simple, clean, and distraction-free writing experience.
+MarkdownLite Editor is a lightweight Markdown document editor for iOS, designed for users who want a simple, clean, and distraction-free writing experience.
 
 The app focuses on essential Markdown editing and preview features without unnecessary complexity, making it suitable for quick notes, documentation, and plain text writing.
 
