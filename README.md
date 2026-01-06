@@ -7,7 +7,6 @@ The app focuses on essential Markdown editing and preview features without unnec
 ## Version 1.0 Features
 
 **Markdown Editing**
-
 	Edit Markdown (.md) files with a clean text editor
 	Monospaced font optimized for writing
 	
@@ -16,13 +15,11 @@ The app focuses on essential Markdown editing and preview features without unnec
 	Render standard Markdown syntax for quick inspection
 	
 **Document-Based Workflow**
-
 	Open and edit Markdown files directly from the Files app
 	Supports opening documents in place
 	Import and export Markdown files
 	
 **iCloud Drive Support**
-
 	Works seamlessly with iCloud Drive
 	Documents remain accessible across devices
 	
