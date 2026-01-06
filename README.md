@@ -1,4 +1,4 @@
-## MarkdownLite Editor Version 2.0.0
+## MarkdownLite Editor Version 2.0.1
 
 MarkdownLite Editor is a lightweight Markdown document editor for iOS, designed for users who want a simple, clean, and distraction-free writing experience.
 
@@ -42,6 +42,10 @@ Refined the toolbar layout and fixed an issue where the keyboard could not be di
 **Editor / Preview Layout Switching**
 
 Added a one-tap option to swap the positions of the editor and preview, accommodating different workflows and screen sizes.
+
+**Fixed an issue where editor text could be hard to see in Dark Mode.**
+
+**Added font size adjustment support**
 
 ## Supported Markdown Syntax
 	Headings
