@@ -26,7 +26,7 @@ The app focuses on essential Markdown editing and preview features without unnec
 **Universal App**
 	Optimized layouts for iPhone and iPad
 	
-## Version 2.0.0 Features
+## Version 2.0.1 Features
 **Synchronized Highlighting Between Editor and Preview**
 
 Double-tap a paragraph in the editor to highlight the corresponding content in the preview. Double-tap the same paragraph again to clear the highlight.
