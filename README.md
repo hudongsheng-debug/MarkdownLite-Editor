@@ -60,8 +60,11 @@ Added a one-tap option to swap the positions of the editor and preview, accommod
 
 ## Version 4.1.2 Features
 Added code export to TXT, Markdown, and PDF formats
+
 Introduced a numeric and symbol keypad for quicker input
+
 Improved performance by fixing occasional lag
+
 Fixed an issue where the cursor position was incorrect when deleting text
 
 
