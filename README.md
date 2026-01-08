@@ -46,15 +46,15 @@ Added a one-tap option to swap the positions of the editor and preview, accommod
 **Fixed an issue where editor text could be hard to see in Dark Mode.**
 
 ## Version 3.1.1 Features
-- **Text Statistics Display**
+**Text Statistics Display**
 
   Line count, character count, and word count are now shown between the editor and preview, making it easier to track document size and progress.
 
-- **Movable Help Button**
+**Movable Help Button**
 
   Tap the floating “?” button to quickly view Markdown syntax tips. The button can be freely dragged to fit different screen sizes and personal preferences.
 
-- **Undo / Redo / Clear All Support**
+**Undo / Redo / Clear All Support**
 
   Added Undo and Redo actions for safer editing, along with a Clear All option to quickly reset the document, including a confirmation prompt to prevent accidental loss.
 
