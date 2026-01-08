@@ -59,8 +59,6 @@ Added a one-tap option to swap the positions of the editor and preview, accommod
   Added Undo and Redo actions for safer editing, along with a Clear All option to quickly reset the document, including a confirmation prompt to prevent accidental loss.
 
 
-**Added font size adjustment support**
-
 ## Supported Markdown Syntax
 	Headings
 	Bold / Italic / Strikethrough
