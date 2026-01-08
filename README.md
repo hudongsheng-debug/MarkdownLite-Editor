@@ -1,4 +1,4 @@
-## MarkdownLite Editor Version 3.1.1
+# MarkdownLite Editor Version 4.1.2
 
 MarkdownLite Editor is a lightweight Markdown document editor for iOS, designed for users who want a simple, clean, and distraction-free writing experience.
 
@@ -57,6 +57,12 @@ Added a one-tap option to swap the positions of the editor and preview, accommod
 **Undo / Redo / Clear All Support**
 
   Added Undo and Redo actions for safer editing, along with a Clear All option to quickly reset the document, including a confirmation prompt to prevent accidental loss.
+
+## Version 4.1.2 Features
+- Added code export to TXT, Markdown, and PDF formats
+- Introduced a numeric and symbol keypad for quicker input
+- Improved performance by fixing occasional lag
+- Fixed an issue where the cursor position was incorrect when deleting text
 
 
 ## Supported Markdown Syntax
